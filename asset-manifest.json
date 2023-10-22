@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/budget-calculator-react/static/css/main.1441a29b.css",
+    "main.js": "/budget-calculator-react/static/js/main.d9bc39b3.js",
+    "index.html": "/budget-calculator-react/index.html",
+    "main.1441a29b.css.map": "/budget-calculator-react/static/css/main.1441a29b.css.map",
+    "main.d9bc39b3.js.map": "/budget-calculator-react/static/js/main.d9bc39b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1441a29b.css",
+    "static/js/main.d9bc39b3.js"
+  ]
+}
